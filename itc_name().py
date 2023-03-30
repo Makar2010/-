@@ -1,5 +1,5 @@
-def ict_name:
+def ict_name():
     print("Makar")
 
 
-ict_name
+ict_name()
