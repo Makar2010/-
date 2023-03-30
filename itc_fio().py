@@ -1,8 +1,10 @@
-def itc_name:
+def itc_name():
     print("Makar")        
 def itc_fio():
     print("Matyushin Ivanovich")
 
 
-itc_name
-itc_fio
+itc_name()
+
+
+itc_fio()
